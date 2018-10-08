@@ -97,7 +97,6 @@
 		E13B7F081E78B59D00D0D43F /* GfycatUploadKey.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GfycatUploadKey.m; sourceTree = "<group>"; };
 		E17737F51E3ABFD200276E0E /* GfycatApiKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GfycatApiKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E17737F81E3ABFD200276E0E /* GfycatApiKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GfycatApiKit.h; sourceTree = "<group>"; };
-		E17737F91E3ABFD200276E0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E17738011E3AC01100276E0E /* GfycatApi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GfycatApi.h; sourceTree = "<group>"; };
 		E17738021E3AC01100276E0E /* GfycatApi.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GfycatApi.m; sourceTree = "<group>"; };
 		E17738051E3AC01100276E0E /* GfycatMedia.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GfycatMedia.h; sourceTree = "<group>"; };
@@ -201,7 +200,6 @@
 				E17738001E3AC01100276E0E /* API */,
 				E17738041E3AC01100276E0E /* Models */,
 				C60FDF621EEA9AB20099F935 /* Utils */,
-				E17737F91E3ABFD200276E0E /* Info.plist */,
 			);
 			path = GfycatApiKit;
 			sourceTree = "<group>";
