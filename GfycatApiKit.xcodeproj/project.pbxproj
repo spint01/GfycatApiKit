@@ -19,6 +19,7 @@
 		C60FDF661EEA9ACD0099F935 /* NSDictionary+GfycatApiKit.m in Sources */ = {isa = PBXBuildFile; fileRef = C60FDF641EEA9ACD0099F935 /* NSDictionary+GfycatApiKit.m */; };
 		C6379DBF1EE8380F00D607BC /* GfycatExtendedMedia.h in Headers */ = {isa = PBXBuildFile; fileRef = C6379DBD1EE8380F00D607BC /* GfycatExtendedMedia.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C6379DC01EE8380F00D607BC /* GfycatExtendedMedia.m in Sources */ = {isa = PBXBuildFile; fileRef = C6379DBE1EE8380F00D607BC /* GfycatExtendedMedia.m */; };
+		CD01A4F4216BEBE900A9F5CD /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CD01A4F3216BEBE900A9F5CD /* Info.plist */; };
 		D83789921EFA647C003BE0B3 /* GfycatConfigurationObject.h in Headers */ = {isa = PBXBuildFile; fileRef = D83789901EFA647C003BE0B3 /* GfycatConfigurationObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D83789931EFA647C003BE0B3 /* GfycatConfigurationObject.m in Sources */ = {isa = PBXBuildFile; fileRef = D83789911EFA647C003BE0B3 /* GfycatConfigurationObject.m */; };
 		D85A41D41EE99E9B00854D9D /* GfycatReferencedMedia.h in Headers */ = {isa = PBXBuildFile; fileRef = D85A41D21EE99E9B00854D9D /* GfycatReferencedMedia.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -85,6 +86,7 @@
 		C60FDF641EEA9ACD0099F935 /* NSDictionary+GfycatApiKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+GfycatApiKit.m"; sourceTree = "<group>"; };
 		C6379DBD1EE8380F00D607BC /* GfycatExtendedMedia.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GfycatExtendedMedia.h; sourceTree = "<group>"; };
 		C6379DBE1EE8380F00D607BC /* GfycatExtendedMedia.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GfycatExtendedMedia.m; sourceTree = "<group>"; };
+		CD01A4F3216BEBE900A9F5CD /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D83789901EFA647C003BE0B3 /* GfycatConfigurationObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GfycatConfigurationObject.h; sourceTree = "<group>"; };
 		D83789911EFA647C003BE0B3 /* GfycatConfigurationObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GfycatConfigurationObject.m; sourceTree = "<group>"; };
 		D85A41D21EE99E9B00854D9D /* GfycatReferencedMedia.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GfycatReferencedMedia.h; sourceTree = "<group>"; };
@@ -133,6 +135,7 @@
 		573CE84E1E928714009F8AF6 /* Meta */ = {
 			isa = PBXGroup;
 			children = (
+				CD01A4F3216BEBE900A9F5CD /* Info.plist */,
 				573CE8551E92872E009F8AF6 /* .gitignore */,
 				576DD1D81E92A8F000CAA1C9 /* Cartfile */,
 				573A368E1F7BEC27001BA029 /* Cartfile.resolved */,
@@ -355,6 +358,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD01A4F4216BEBE900A9F5CD /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
